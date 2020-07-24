@@ -1,0 +1,25 @@
+@font-face {
+  font-family: "MuseoSans";
+  src:url("../../fonts/MuseoSans_500.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "StardosStencil";
+  src:url("../../fonts/StardosStencil-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "StardosStencil";
+  font-weight: bold;
+  src:url("../../fonts/StardosStencil-Bold.ttf") format("truetype");
+}
+
+// Fonts
+$font-heading: 'MuseoSans', serif;
+$font-paragraph: 'StardosStencil', sans-serif;
+
+// Colours
+$yellow: #FDE500;
+$grey: #181812;
+$grey-dark: #0D0D0A;
+$white: #FFFFFF;
